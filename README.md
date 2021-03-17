@@ -33,14 +33,14 @@ When a player installed the game, he or she was randomly assigned to either *gat
 - 81% of users quit the game after 7 days of installing (19% retention)
 
 ### 1-Day Retention Comparison
-- 44.8% of gate_30 users continue to play the game after 1-day
-- 44.2% of gate_40 users continue to play the game after 1-day
+- 44.8% of gate_30 users continue to play the game after 1 day
+- 44.2% of gate_40 users continue to play the game after 1 day
 
 --> gate_30 yields 0.6% higher 1-day rentention rate
 
 ### 7-Day Retention Comparison
-- 19.0% of gate_30 users continue to play the game after 1-day
-- 18.2% of gate_40 users continue to play the game after 1-day
+- 19.0% of gate_30 users continue to play the game after 7 days
+- 18.2% of gate_40 users continue to play the game after 7 days
 
 --> gate_30 yields 0.8% higher 7-day rentention rate
 
